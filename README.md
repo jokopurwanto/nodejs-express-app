@@ -1,4 +1,3 @@
-
 # Install nodejs
 Pastikan nodejs sudah terinstall di pc/laptop, jika belum maka bisa unduh [nodejs](https://nodejs.org/en/download/)
 
@@ -24,6 +23,7 @@ express myApp
 # Install dependencies
 Pindah ke **working directory**, lalu jalankan command **npm install** untuk menginstal semua dependency yang diperlukan pada project
 ```
+cd myApp
 npm install
 ```
 
