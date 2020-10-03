@@ -1,2 +1,11 @@
-# nodejs-express-app
-Membuat Project Expressjs
+
+# Install nodejs
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
